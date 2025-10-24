@@ -20,6 +20,6 @@ The HR Analysis Project focuses on analyzing employee data to uncover insights r
 
 # Repository Structure
 •	Dataset : <a href = "https://github.com/Pranali-6yp/Excel_Dashboard/blob/main/HR_Analytics.csv " </a> <br>
-•	Dashboard : <a href ="https://github.com/Pranali-6yp/Excel_Dashboard/blob/main/HR%20Dashboard.png" </a> <br>
-•	Image :
+•	Image : <a href ="https://github.com/Pranali-6yp/Excel_Dashboard/blob/main/HR%20Dashboard.png" </a> <br>
+•	Dashboard :<a href = "https://github.com/Pranali-6yp/Excel_Dashboard/blob/main/HR_Analysis.csv.xlsx" </a>
 
