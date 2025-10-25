@@ -16,10 +16,11 @@ The HR Analysis Project focuses on analyzing employee data to uncover insights r
 •	Young employees (25–35 years) have higher turnover rate <br>
 •	Gender distribution and salary comparison across departments <br>
 
-# Dashboard Preview
-
 # Repository Structure
 •	Dataset : <a href = "https://github.com/Pranali-6yp/Excel_Dashboard/blob/main/HR_Analytics.csv " </a> <br>
 •	Image : <a href ="https://github.com/Pranali-6yp/Excel_Dashboard/blob/main/HR%20Dashboard.png" </a> <br>
 •	Dashboard :<a href = "https://github.com/Pranali-6yp/Excel_Dashboard/blob/main/HR_Analysis.csv.xlsx" </a>
+
+# Conclusion
+This project provides a comprehensive view of HR metrics, enabling better decisions on employee engagement, retention, and resource management.
 
